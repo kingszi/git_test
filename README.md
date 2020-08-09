@@ -1,0 +1,1 @@
+This is Kinga's first Git project!
